@@ -1,1 +1,1 @@
-
+Tried: Initially trying to understand the mechanism and dividing them into blocks to work on them indivitually. The entire works requires to complete 2 parts: the actual turret and the hand-held controller. Focussing on the turret design will be my first step. 
