@@ -14,6 +14,10 @@ Contains the timeline of the project flow.
 ### Not yet resolved :
 - The main shooting portion still remains unresolved.
 
+## 1 Sept onwards : Shooting mechanism work
+- Firstly, analysed the orientation of the launcher with respect to the pan and tilt servo.
+  
+
 
 
 
