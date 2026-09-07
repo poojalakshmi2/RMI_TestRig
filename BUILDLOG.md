@@ -14,8 +14,16 @@ Contains the timeline of the project flow.
 ### Not yet resolved :
 - The main shooting portion still remains unresolved.
 
-## 1 Sept onwards : Shooting mechanism work
+## 1 Sept - 3 Sept : Shooting mechanism work
 - Firstly, analysed the orientation of the launcher with respect to the pan and tilt servo.
+- Later figured out how exactly the barrel is going to be mounted with respect to the tilt servo.
+
+## 4 Sept - 7 Sept : Figured out Shooting Mechanism
+- On a design level, the shooter will contain a barrel and magazine. Small balls can be used to fire the target.
+- Flywheel mechanism will be employed to give momentum to the balls.
+### Works to be done:
+- CAD the barrel, magazine and flywheel mechanism
+- Overall CAD Assembly.
   
 
 
