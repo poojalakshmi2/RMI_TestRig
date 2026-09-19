@@ -24,6 +24,9 @@ Contains the timeline of the project flow.
 ### Works to be done:
 - CAD the barrel, magazine and flywheel mechanism
 - Overall CAD Assembly.
+
+## 13 Sept - 20 Sept: 3D Printing and Electronics:
+
   
 
 
